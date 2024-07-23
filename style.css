@@ -64,6 +64,7 @@ body {
 
 .blog-card__heading {
     text-align: left;
+}
 
 .blog-card__heading:hover {
     color: var(--yellow);
